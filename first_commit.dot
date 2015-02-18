@@ -1,5 +1,0 @@
-digraph {
-
-    node [shape="box"]
-    A[label="A"]
-}
