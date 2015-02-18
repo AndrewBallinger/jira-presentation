@@ -1,0 +1,19 @@
+digraph {
+
+    node [shape="none"]
+    HEAD[label="HEAD;fish_rule"]
+    MASTER[label="master"]
+    
+    node [shape="box"]
+    A[label="A"]
+    B[label="B"]
+    C[label="C"]
+    
+    A -> B -> C
+    B -> D -> E
+    HEAD -> E
+    MASTER -> C
+    {rank=same; B C}
+    {rank=same; D E }
+    {rank=max; HEAD MASTER}
+}

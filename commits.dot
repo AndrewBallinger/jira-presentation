@@ -1,0 +1,20 @@
+digraph {
+
+    node [shape="none"]
+    MASTER[label="master"]
+    dog[label="lost_dog"]
+    
+    node [shape="box"]
+    A[label="A"]
+    B[label="B"]
+    C[label="C'"]
+    DD[label="D'"]
+
+    A -> B -> C -> D -> E
+    B-> DD
+    MASTER -> DD
+    dog -> E
+    rankdir="LR"
+    {rank=same; MASTER DD}
+    {rank=same; dog E}
+}
