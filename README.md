@@ -35,7 +35,7 @@ Lucas](palantir.jpg)
 
 ## Filters: What are they?
 
-
+A way of getting at every ticket that exists in JIRA served up any way that you want them.
 
 ## Filters: Why are they good?
 
@@ -63,7 +63,7 @@ Lucas](palantir.jpg)
 
 ## Boards: What are they?
 
-
+Filters >>= Kanban
 
 ## Boards: Why are they good?
 
