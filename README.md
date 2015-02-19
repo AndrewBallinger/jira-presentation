@@ -1,4 +1,4 @@
-### Overview
+## Overview
 
 -   <span>About JIRA</span>
 
@@ -12,7 +12,7 @@
 
 -   <span>Doing more with less</span>
 
-### What is a JIRA and how do I get one?
+## What is a JIRA and how do I get one?
 
 Jira is a tool developed by Atlassian for project management.
 
@@ -26,18 +26,18 @@ Jira is a tool developed by Atlassian for project management.
 
 -   <span>No free option</span>
 
-### Why I think it’s awesome
+## Why I think it’s awesome
 
 Some cliches about powerful things.
 
 ![With great power comes great responsibility –George
 Lucas](palantir.jpg)
 
-### Filters: What are they?
+## Filters: What are they?
 
 
 
-### Filters: Why are they good?
+## Filters: Why are they good?
 
 -   <span>Two strengths, Basic and Developer</span>
 
@@ -49,7 +49,7 @@ Lucas](palantir.jpg)
 
 
 
-### Filters: Getting started
+## Filters: Getting started
 
 -   <span>Go to issues and see what’s public</span>
 
@@ -61,11 +61,11 @@ Lucas](palantir.jpg)
 
 
 
-### Boards: What are they?
+## Boards: What are they?
 
 
 
-### Boards: Why are they good?
+## Boards: Why are they good?
 
 -   <span>Day to day</span>
 
@@ -75,7 +75,7 @@ Lucas](palantir.jpg)
 
 
 
-### Boards: Getting Started
+## Boards: Getting Started
 
 -   <span>Make a filter</span>
 
@@ -83,13 +83,13 @@ Lucas](palantir.jpg)
 
 
 
-### Food and Questions Break
+## Food and Questions Break
 
 ![This comic might be unrelated to the talk](comic.png)
 
 
 
-### Android Workflow
+## Android Workflow
 
 -   <span>Mirrors most (all?) web teams</span>
 
@@ -101,7 +101,7 @@ Lucas](palantir.jpg)
 
 
 
-### Advanced: Things to try
+## Advanced: Things to try
 
 -   <span>Add/Delete fields</span>
 
@@ -119,7 +119,7 @@ Lucas](palantir.jpg)
 
 
 
-### Additional Resources
+## Additional Resources
 
 Get them while they’re hot.
 
